@@ -22,5 +22,6 @@ git commit
 * :email: **Email**: email@email.ru
 * :phone: **Телефон**: +7 (123) 456-87-12
 ## Заключение:
-:memo: [Официальная документация _Git_](https://docs.github.com/ru/get-started "Перейти на официальный сайт https://docs.github.com/ru/") \
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> _Желаем удачи!_ 
+:memo: [Официальная документация _Git_](https://docs.github.com/ru/get-started "Перейти на официальный сайт https://docs.github.com/ru/")
+
+_Желаем удачи!_
